@@ -1,4 +1,4 @@
-[what?](https://github.com/onexizz/quickstart/editnotused/quickstart.png)
+[what?](https://github.com/onexizz/quickstart/notused/quickstart.png)
 # 🚀 Onexizz Quickstart — Auto Setup Script for Ubuntu
 
 > ⚙️ Полная автоматическая установка **Python**, **Node.js**, **MongoDB**, **Nginx**, **PM2**, **TypeScript** и **Bun** на Ubuntu.  
